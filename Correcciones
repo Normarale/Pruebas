@@ -4,3 +4,4 @@ Mi dificultad está en hacer una modificación de los datos desde angular utiliz
 en mi repositorio en AngularActual está mi portfolio como está al día de hoy, en el repositorio de Springboot está mis CRUD, los hice utilizando Netbeans.
 Y en éste repositorio (Pruebas), está mi base de datos
 Es posible esté utilizando mal el pase de parámetros porque si lo pruebo desde Postman funciona dicha modificación.
+Estoy trabajando con datoaService.ts y header.ts
